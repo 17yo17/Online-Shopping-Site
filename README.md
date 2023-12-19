@@ -2,4 +2,4 @@
 
 Responsive Ecommerce Website Using HTML, CSS, JavaScript
 
-![alt text](https://github.com/[17yo17]/[Online-Shopping-Site]/blob/[img]/homepage.png?raw=true)
+![alt text](https://github.com/[17yo17]/[Online-Shopping-Site]/[img]/homepage.png?raw=true)
